@@ -1,7 +1,7 @@
-#ExpNo:10 Implementation of Classical Planning Algorithm 
+# ExpNo:10 Implementation of Classical Planning Algorithm 
 
-NAME:  
-REG NO:
+NAME:  LOGESH S 
+REG NO: 2305001014
 ## Algorithm or Steps Involved:
 Define the initial state
 Define the goal state
